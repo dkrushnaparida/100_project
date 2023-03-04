@@ -6,6 +6,7 @@ while temp > 0:
     sum += digit ** 3
     temp //= 10
 
+#
 if num == sum:
     print("Its a Armstrong number")
 else:
